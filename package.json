@@ -1,0 +1,16 @@
+{
+  "name": "git-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "get-repository-url": "^2.0.0",
+    "github-search-api": "^0.0.3"
+  }
+}
